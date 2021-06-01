@@ -1,3 +1,2 @@
 server:
-    port: 3349
-    info: "获取配置成功！3350"
+    info: "获取配置成功！version=one"
